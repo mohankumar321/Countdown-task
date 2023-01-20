@@ -1,0 +1,16 @@
+#timer{
+    text-align: center;
+    justify-content: center;
+    color: rgb(86, 10, 250);
+    font-size: 20vh;
+}
+.countdown{
+    text-align: center;
+    justify-content: center;
+  
+}
+#greet{
+    color: rgba(203, 159, 0, 0.893);
+}
+
+
